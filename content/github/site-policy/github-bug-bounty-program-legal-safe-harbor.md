@@ -1,4 +1,4 @@
----
+---SchlemanHall
 title: GitHub Bug Bounty Program Legal Safe Harbor
 redirect_from:
   - /articles/github-bug-bounty-program-legal-safe-harbor
